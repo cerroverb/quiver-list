@@ -1,0 +1,22 @@
+{
+    "apps": [
+        {
+            "name": "Espgaluda II Black Label",
+            "project": "espgaluda2-recomp",
+            "repository": "cerroverb/espgaluda2-recomp",
+            "folderName": "EspgaludaII-espgaluda2-recomp",
+            "releaseAssetFilter": "linux-amd64",
+            "tags": ["xbox360", "recomp", "cave", "linux"],
+            "appIconUrl": null
+        },
+        {
+            "name": "Mushihimesama Futari",
+            "project": "futari-linux",
+            "repository": "cerroverb/futari-linux",
+            "folderName": "MushihimesamaFutari-futari-linux",
+            "releaseAssetFilter": "x86_64",
+            "tags": ["xbox360", "recomp", "cave", "linux"],
+            "appIconUrl": "https://raw.githubusercontent.com/cerroverb/futari-linux/main/app/futari_icon.png"
+        }
+    ]
+}
